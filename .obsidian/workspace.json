@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7168270341441b2",
+        "id": "37d64cc2e647836e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8ff43be483ad48",
+            "id": "391a66494754e0da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,6 +165,12 @@
   },
   "active": "61692a077384e33c",
   "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "Home.md",
+    "Question 21.md",
+    "Cecilia Excel.md",
+    "Cecilia.md",
     "AI Chats/Deepseek - Helix Tone.md",
     "AI Chats/Deepseek - Global Data Warehouse.md",
     "AI Chats/Any - Snowflake Terraform.md"
