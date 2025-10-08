@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/n8n/Prompt Generator.md",
+                "file": "Prompts/n8n/System Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Generator"
+              "title": "System Prompt"
             }
           }
         ],
@@ -184,10 +184,11 @@
   },
   "active": "1370185489ad92c9",
   "lastOpenFiles": [
+    "Prompts/n8n/Prompt Generator.md",
+    "Prompts/n8n/System Prompt.md",
     "Prompts/n8n",
     "Prompts",
     "AI Chats/ChatGPT Prompts.md",
-    "Prompts/n8n/Prompt Generator.md",
     "README.md",
     "Welcome.md",
     "Home.md",
