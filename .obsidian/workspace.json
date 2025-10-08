@@ -11,10 +11,14 @@
             "id": "65a06543820d676b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI Chats/ChatGPT Prompts.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ChatGPT Prompts"
             }
           }
         ]
