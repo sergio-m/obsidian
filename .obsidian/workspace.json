@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "restaurants/Top Sushi Restaurants in San Antonio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Top Sushi Restaurants in San Antonio"
             }
           }
         ],
@@ -212,8 +212,10 @@
   },
   "active": "071a3d0497eea2c9",
   "lastOpenFiles": [
-    "Casas/Untitled.md",
     "README.md",
+    "restaurants/Top Sushi Restaurants in San Antonio.md",
+    "restaurants",
+    "Casas/Untitled.md",
     "Home.md",
     "Casas",
     "Realest/TODO.md",
